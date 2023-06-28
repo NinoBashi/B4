@@ -1,0 +1,38 @@
+*{
+box-sizing: border-box;
+}
+@font-face{
+    src: url(inter-regular.ttf);
+    font-family: inter-regular;
+}
+.box1{
+    background-color: #882828;
+    height: 348px;
+}
+.box2{
+    background-color: #882828;
+    height: 348px;
+}
+.box3{
+    background-color: #882828;
+    height: 348px;
+}
+.p1{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: inter-regular;
+    
+}
+.p2{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: inter-regular;    
+}
+.p3{
+    font-weight: 700;
+    font-size: 16px;
+    color: #FFFFFF;
+    font-family: inter-regular;
+}
